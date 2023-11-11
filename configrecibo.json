@@ -1,0 +1,137 @@
+{
+  "apps": [
+    {
+      "status": 1,
+      "redirect_url": "",
+      "privacy_policy_url": "https://sites.google.com/view/lunomosikvid",
+	  "email_feedback_and_report": "lynoku.square7@gmail.com",
+      "webview_cache": true,
+      "post_list_in_large_style": false,
+      "show_post_list_header": true,
+      "show_post_detail_image": true,
+      "show_post_detail_title": true,
+      "show_post_detail_category": true,
+      "show_related_posts": true,
+      "enable_rtl_mode": false,
+      "enable_exit_dialog": true,
+      "enable_app_protection": false,
+      "enable_dark_mode_as_default_theme": false,
+      "youtube_api_key": "0",
+      "base64_license_key": ""
+    }
+  ],
+  "ads": [
+    {
+      "ad_status": 1,
+      "main_ad": "fan",
+      "backup_ad": "applovin_max",
+      "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
+      "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
+      "admob_app_open_unit_id": "ca-app-pub-3940256099942544/3419835294",
+      "ad_manager_banner_unit_id": "/6499/example/banner",
+      "ad_manager_interstitial_unit_id": "/6499/example/interstitial",
+      "ad_manager_native_unit_id": "/6499/example/native",
+      "ad_manager_app_open_unit_id": "/6499/example/app-open",
+      "fan_banner_unit_id": "244321464744853_244321731411493",
+      "fan_interstitial_unit_id": "244321464744853_244322121411454",
+      "fan_native_unit_id": "244321464744853_244322228078110",
+      "startapp_app_id": "0",
+      "unity_game_id": "180600305",
+      "unity_banner_placement_id": "banner",
+      "unity_interstitial_placement_id": "video",
+      "applovin_banner_unit_id": "0",
+      "applovin_interstitial_unit_id": "0",
+      "applovin_native_manual_unit_id": "0",
+      "applovin_open_ad_unit_id": "0",
+      "applovin_banner_zone_id": "0",
+      "applovin_interstitial_zone_id": "0",
+      "ironsource_app_key": "0",
+      "ironsource_banner_id": "DefaultBanner",
+      "ironsource_interstitial_id": "DefaultInterstitial",
+      "interstitial_ad_interval": 2,
+      "native_ad_index": 1,
+      "native_ad_interval": 5,
+      "native_ad_style": "medium",
+      "native_ad_post_details_position": "top",
+      "show_banner_ad_home": true,
+      "show_banner_ad_post_details": true,
+      "show_banner_ad_category_details": true,
+      "show_banner_ad_search": true,
+      "show_interstitial_ad_post_list": true,
+      "show_interstitial_ad_post_details": true,
+      "show_native_ad_post_list": true,
+      "show_native_ad_post_details": true,
+      "show_app_open_ad": true
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Consulta Recibo Luz Guia",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c"
+    }
+  ],
+  "posts": [{
+      "id": 1,
+      "category": "Consulta Recibo Luz Guia",
+      "title": "¿Qué es la CFE",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F1%20%C2%BFQu%C3%A9%20es%20la%20CFE.html?alt=media&token=eb7b3660-b66c-4a1f-a271-843150071a54",
+      "video": ""
+    },{
+      "id": 2,
+      "category": "Consulta Recibo Luz Guia",
+      "title": "¿Cómo Consultar Mi Recibo de Luz CFE en Internet",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F2%20%C2%BFC%C3%B3mo%20Consultar%20Mi%20Recibo%20de%20Luz%20CFE%20en%20Internet.html?alt=media&token=b73c303d-1895-425b-a7af-aa18304f2a7f",
+      "video": ""
+    },
+    {
+      "id": 3,
+      "category": "Consulta Recibo Luz Guia",
+      "title": "¿Qué debes saber para poder leer el recibo de CFE",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F3%20%C2%BFQu%C3%A9%20debes%20saber%20para%20poder%20leer%20el%20recibo%20de%20CFE.html?alt=media&token=b337e01f-806f-4f76-a1a4-06c407f65d2b",
+      "video": ""
+    },{
+      "id": 4,
+      "category": "Consulta Recibo Luz Guia",
+      "title": "¿Cómo se clasifican las tarifas de CFE",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F4%20%C2%BFC%C3%B3mo%20se%20clasifican%20las%20tarifas%20de%20CFE.html?alt=media&token=6ec26641-8e14-4347-91ee-fa5959bfc8b7",
+      "video": ""
+    },{
+      "id": 5,
+      "category": "Consulta Recibo Luz Guia",
+      "title": "¿Como cobra CFE la electricidad",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F5%20%C2%BFComo%20cobra%20CFE%20la%20electricidad.html?alt=media&token=b2432107-f6d3-4a74-8b8a-98610853852b",
+      "video": ""
+    },{
+      "id": 6,
+      "category": "Consulta Recibo Luz Guia",
+      "title": "Tarifas CFE",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F6%20Tarifas%20CFE.html?alt=media&token=0525c1d5-7225-4c13-ad63-9d9b5ba4f3ca",
+      "video": ""
+    },{
+      "id": 7,
+      "category": "Consulta Recibo Luz Guia",
+      "title": "¿Qué Pasa si no Pago la Luz por Varios Meses",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F7%20%C2%BFQu%C3%A9%20Pasa%20si%20no%20Pago%20la%20Luz%20por%20Varios%20Meses.html?alt=media&token=3f75432b-2245-4f39-9467-99ad0e2592d9",
+      "video": ""
+    },{
+      "id": 8,
+      "category": "Consulta Recibo Luz Guia",
+      "title": "10 Simples Medidas de Ahorro Energético",
+      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
+      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F8%2010%20Simples%20Medidas%20de%20Ahorro%20Energ%C3%A9tico.html?alt=media&token=13c41201-8191-40e2-ae9f-357a7fd76486",
+      "video": ""
+    }
+  ],
+  "more_apps": [
+    
+  ]
+}
