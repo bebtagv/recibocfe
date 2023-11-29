@@ -65,69 +65,69 @@
       "show_app_open_ad": true
     }
   ],
-  "categories": [
+   "categories": [
     {
       "id": 1,
       "name": "Consulta Recibo Luz Guia",
-      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c"
+      "image": "https://djenewapul.uk/recibo/bannerrecibo.png"
     }
   ],
   "posts": [{
       "id": 1,
       "category": "Consulta Recibo Luz Guia",
       "title": "¿Qué es la CFE",
-      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
-      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F1%20%C2%BFQu%C3%A9%20es%20la%20CFE.html?alt=media&token=eb7b3660-b66c-4a1f-a271-843150071a54",
+      "image": "https://djenewapul.uk/recibo/bannerrecibo.png",
+      "content": "https://djenewapul.uk/recibo/bannerrecibo.png",
       "video": ""
     },{
       "id": 2,
       "category": "Consulta Recibo Luz Guia",
       "title": "¿Cómo Consultar Mi Recibo de Luz CFE en Internet",
-      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
-      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F2%20%C2%BFC%C3%B3mo%20Consultar%20Mi%20Recibo%20de%20Luz%20CFE%20en%20Internet.html?alt=media&token=b73c303d-1895-425b-a7af-aa18304f2a7f",
+      "image": "https://djenewapul.uk/recibo/bannerrecibo.png",
+      "content": "https://djenewapul.uk/recibo/2 ¿Cómo Consultar Mi Recibo de Luz CFE en Internet.html",
       "video": ""
     },
     {
       "id": 3,
       "category": "Consulta Recibo Luz Guia",
       "title": "¿Qué debes saber para poder leer el recibo de CFE",
-      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
-      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F3%20%C2%BFQu%C3%A9%20debes%20saber%20para%20poder%20leer%20el%20recibo%20de%20CFE.html?alt=media&token=b337e01f-806f-4f76-a1a4-06c407f65d2b",
+      "image": "https://djenewapul.uk/recibo/bannerrecibo.png",
+      "content": "https://djenewapul.uk/recibo/3 ¿Qué debes saber para poder leer el recibo de CFE.html",
       "video": ""
     },{
       "id": 4,
       "category": "Consulta Recibo Luz Guia",
       "title": "¿Cómo se clasifican las tarifas de CFE",
-      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
-      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F4%20%C2%BFC%C3%B3mo%20se%20clasifican%20las%20tarifas%20de%20CFE.html?alt=media&token=6ec26641-8e14-4347-91ee-fa5959bfc8b7",
+      "image": "https://djenewapul.uk/recibo/bannerrecibo.png",
+      "content": "https://djenewapul.uk/recibo/4 ¿Cómo se clasifican las tarifas de CFE.html",
       "video": ""
     },{
       "id": 5,
       "category": "Consulta Recibo Luz Guia",
       "title": "¿Como cobra CFE la electricidad",
-      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
-      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F5%20%C2%BFComo%20cobra%20CFE%20la%20electricidad.html?alt=media&token=b2432107-f6d3-4a74-8b8a-98610853852b",
+      "image": "https://djenewapul.uk/recibo/bannerrecibo.png",
+      "content": "https://djenewapul.uk/recibo/5 ¿Como cobra CFE la electricidad.html",
       "video": ""
     },{
       "id": 6,
       "category": "Consulta Recibo Luz Guia",
       "title": "Tarifas CFE",
-      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
-      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F6%20Tarifas%20CFE.html?alt=media&token=0525c1d5-7225-4c13-ad63-9d9b5ba4f3ca",
+      "image": "https://djenewapul.uk/recibo/bannerrecibo.png",
+      "content": "https://djenewapul.uk/recibo/6 Tarifas CFE.html",
       "video": ""
     },{
       "id": 7,
       "category": "Consulta Recibo Luz Guia",
       "title": "¿Qué Pasa si no Pago la Luz por Varios Meses",
-      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
-      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F7%20%C2%BFQu%C3%A9%20Pasa%20si%20no%20Pago%20la%20Luz%20por%20Varios%20Meses.html?alt=media&token=3f75432b-2245-4f39-9467-99ad0e2592d9",
+      "image": "https://djenewapul.uk/recibo/bannerrecibo.png",
+      "content": "https://djenewapul.uk/recibo/7 ¿Qué Pasa si no Pago la Luz por Varios Meses.html",
       "video": ""
     },{
       "id": 8,
       "category": "Consulta Recibo Luz Guia",
       "title": "10 Simples Medidas de Ahorro Energético",
-      "image": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2Fbannerrecibo.png?alt=media&token=7ccac5ad-e09e-496d-ae55-61ea6d41c02c",
-      "content": "https://firebasestorage.googleapis.com/v0/b/tips-8fb99.appspot.com/o/recibocfe%2F8%2010%20Simples%20Medidas%20de%20Ahorro%20Energ%C3%A9tico.html?alt=media&token=13c41201-8191-40e2-ae9f-357a7fd76486",
+      "image": "https://djenewapul.uk/recibo/bannerrecibo.png",
+      "content": "https://djenewapul.uk/recibo/8 10 Simples Medidas de Ahorro Energético.html",
       "video": ""
     }
   ],
